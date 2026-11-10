@@ -7,7 +7,7 @@ cask "stenographer" do
   desc "Menu bar dictation: hold right Option, speak, release"
   homepage "https://github.com/knorthfield/stenographer"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Stenographer.app"
 
