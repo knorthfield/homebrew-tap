@@ -1,6 +1,6 @@
 cask "nightwatchman" do
-  version "1.1"
-  sha256 "39739a5f37fa8858465950faeeeace57406be66a60844f6f42d7cdc93355aeed"
+  version "1.2"
+  sha256 "9c50922aa2f9f7477947885e29fe39c86eeba7856fca6de4a008bdd1ab63799d"
 
   url "https://github.com/knorthfield/nightwatchman/releases/download/v#{version}/Nightwatchman.zip"
   name "Night Watchman"
