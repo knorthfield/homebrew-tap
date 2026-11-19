@@ -9,6 +9,7 @@ brew install --cask knorthfield/tap/nightwatchman
 brew install --cask knorthfield/tap/napkin
 brew install --cask knorthfield/tap/shep
 brew install --cask knorthfield/tap/housekeeper
+brew install --cask knorthfield/tap/archivist
 ```
 
 | Cask | App |
@@ -19,3 +20,4 @@ brew install --cask knorthfield/tap/housekeeper
 | `napkin` | [Napkin](https://github.com/knorthfield/napkin): a calculator in a notepad. Write calculations in numbers and words. |
 | `shep` | [Shep](https://github.com/knorthfield/shep): the terminals and coding agents of herdr-core. Spaces, tabs, panes and agent status. |
 | `housekeeper` | [Housekeeper](https://github.com/knorthfield/housekeeper): file automation. Watches folders and runs your rules on the files that arrive. |
+| `archivist` | [Archivist](https://github.com/knorthfield/archivist): clipboard history. A bar at the bottom of the screen with search and pinboards. |
