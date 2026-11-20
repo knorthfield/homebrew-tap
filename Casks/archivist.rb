@@ -1,6 +1,6 @@
 cask "archivist" do
-  version "1.1.1"
-  sha256 "bb69be70c5ba69a12ba6c03a88fa26897430e77e6e01fa51caad3f3b5945ed1c"
+  version "1.2"
+  sha256 "3e3e36cba7a82e085a596f4281fe1f913de9bc87ff327f2661c869bd9a256aa1"
 
   url "https://github.com/knorthfield/archivist/releases/download/v#{version}/Archivist.zip"
   name "Archivist"
