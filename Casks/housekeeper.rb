@@ -1,6 +1,6 @@
 cask "housekeeper" do
-  version "1.1.0"
-  sha256 "43c7b6dac51944c21b7a651a634506ecb49ba19460203811057c4086d3e3d8a6"
+  version "1.2.0"
+  sha256 "eeabd0ce66f5cd00855d69da6898ed58f1812bd4d2f75c10185684e4a475413c"
 
   url "https://github.com/knorthfield/housekeeper/releases/download/v#{version}/Housekeeper.zip"
   name "Housekeeper"
