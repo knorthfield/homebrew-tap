@@ -1,6 +1,6 @@
 cask "stenographer" do
-  version "1.3.1"
-  sha256 "6cfd5056e05509cf670697f75fd10e8f88820930a6e805dd40e627f1cb85e3c8"
+  version "1.4"
+  sha256 "4b39ba3dc9eea56df837baf290ec4f85708fe293c0998bed3991e07a17ea018d"
 
   url "https://github.com/knorthfield/stenographer/releases/download/v#{version}/Stenographer.zip"
   name "Stenographer"
