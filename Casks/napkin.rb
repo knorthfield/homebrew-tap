@@ -1,6 +1,6 @@
 cask "napkin" do
-  version "1.1"
-  sha256 "0ec77b4ba5d9d4e8df400d41e2968ce30e5e7d06675bc54830249aee82e5bdc4"
+  version "1.2"
+  sha256 "4db28d3d2df88b1c5aff38dc2db78416a0dcc45e4ee003ec34d80303ac6edb6a"
 
   url "https://github.com/knorthfield/napkin/releases/download/v#{version}/Napkin.zip"
   name "Napkin"
