@@ -1,6 +1,6 @@
 cask "clerk" do
-  version "1.3.1"
-  sha256 "49d4f5b22ccf6015f08beda9a1bb11125d646ec0290cc37b02466932aeaa8120"
+  version "1.3.2"
+  sha256 "0a9d237dfd8a15b3034aca41fe4eafe4e07f799bd8c9eb95bd76f1e572932645"
 
   url "https://github.com/knorthfield/clerk/releases/download/v#{version}/Clerk.zip"
   name "Clerk"
