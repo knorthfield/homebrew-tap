@@ -1,6 +1,6 @@
 cask "shep" do
-  version "0.20"
-  sha256 "ad4e02a4e411739a3cf3a186064c9bb00c6dd690c2fea79df328d739ea6c982e"
+  version "0.21"
+  sha256 "9667cba6c1765f1b9d806ed8702256436e2a3331d57ea7da564ca9ec5ee488d5"
 
   url "https://github.com/knorthfield/shep/releases/download/v#{version}/Shep.zip"
   name "Shep"
